@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-=======
-grand theft auto IV
-grand theft auto III
-grand theft auto V
-grand theft auto vice
-grand theft auto san andreas
 
-(Örneğin)
->>>>>>> 6902fb815c447ea5a4794703f1ad1a6dfcda092f
